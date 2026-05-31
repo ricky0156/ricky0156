@@ -6,8 +6,6 @@
 - ⚡ Fun fact: I love solving problems with code.
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** HTML, CSS, JavaScript
-- **Tools:** VS Code, Git, GitHub
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io)
 
-### 📈 GitHub Stats
-![Ricky's GitHub stats](https://vercel.app)
+![VS Code](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
